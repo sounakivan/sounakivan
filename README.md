@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sounakivan (Sounak)
+- 👀 I’m interested in virtual reality development and 3D art.
+- 🌱 I’m currently learning shaders, C#, visual effect graph (Unity).
+- 💞️ I’m looking to collaborate on VR/AR projects
+- 📫 How to reach me www.sounak.space
